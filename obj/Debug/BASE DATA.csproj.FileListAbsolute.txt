@@ -1,0 +1,13 @@
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE DATA.csprojAssemblyReference.cache
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE_DATA.Properties.Resources.resources
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE DATA.csproj.GenerateResource.cache
+C:\Users\ruban\Desktop\BASE DATA\bin\Debug\Project organization 1.mdb
+C:\Users\ruban\Desktop\BASE DATA\bin\Debug\BASE DATA.exe.config
+C:\Users\ruban\Desktop\BASE DATA\bin\Debug\BASE DATA.exe
+C:\Users\ruban\Desktop\BASE DATA\bin\Debug\BASE DATA.pdb
+C:\Users\ruban\Desktop\BASE DATA\bin\Debug\MetroFramework.dll
+C:\Users\ruban\Desktop\BASE DATA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE_DATA.Form1.resources
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE DATA.csproj.CopyComplete
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE DATA.exe
+C:\Users\ruban\Desktop\BASE DATA\obj\Debug\BASE DATA.pdb
